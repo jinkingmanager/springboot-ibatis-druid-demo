@@ -1,0 +1,109 @@
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### NetBeans ###
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+.settings
+
+.metadata
+en=java
+*.stackdump
+.gradle
+
+bin
+bin-groovy
+build
+*.tmp
+.project
+.classpath
+*~
+*.java.hsp
+*.sonarj
+*.sw*
+.DS_Store
+.settings
+.springBeans
+bin
+build.sh
+integration-repo
+ivy-cache
+jxl.log
+jmx.log
+derby.log
+.gradle
+gradle-app.setting
+argfile*
+testdata.json
+activemq-data/
+build/
+/build
+*/build
+*/**/build
+target/
+/target
+*/target
+*/**/target
+
+# Eclipse artifacts, including WTP generated manifests
+.project
+.metadata
+venus-*/src/main/java/META-INF/MANIFEST.MF
+.eclipse-pmd
+# IDEA artifacts and output dirs
+*.iml
+*.ipr
+*.iws
+.idea
+
+out
+test-output
+atlassian-ide-plugin.xml
+.gradletasknamecach
+node_modules/
+# Gruntfile.js
+# package.json
+# config.json
+/.recommenders
+/Servers
+Servers
+.vinfo
+classes/
+*.log
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
